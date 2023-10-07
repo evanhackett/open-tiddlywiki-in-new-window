@@ -1,4 +1,4 @@
-This is an applescript app that will open tiddlywiki in a new Brave window. Change the url if needed.
+This is an applescript app that will open tiddlywiki in a new Brave window. Change the url or the browser if needed.
 
 You can open the .scpt file using Script Editor to edit/view the source code.
 
